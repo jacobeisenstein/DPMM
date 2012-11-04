@@ -1,3 +1,6 @@
+This is a matlab library for Gaussian Dirichlet Process Mixture Models (DPMMs).
+It includes both variational and Monte Carlo inference.
+
 To test / see how this program works, run demodpmm.m in matlab
 
 This code was mostly written in 2007. When I found out it was
